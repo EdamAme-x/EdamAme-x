@@ -1,6 +1,6 @@
 ### Hi 👍
 
-self.old = [@nakasyou](https://github.com/nakasyou)
+self.old ≒ [@nakasyou](https://github.com/nakasyou)
 
 Vulnerability research, web production, etc.
 
