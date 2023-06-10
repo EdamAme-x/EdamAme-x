@@ -1,6 +1,10 @@
-### Hi 👍
+<h1 align="center"> Hi👍 Ame'x desc</h1>
 
 self.old ≒ [@nakasyou](https://github.com/nakasyou)
+
+Programming Start: 2023/02/01
+
+![cup](https://github-profile-trophy.vercel.app/?username=EdamAme-x)
 
 Vulnerability research, web production, etc.
 
