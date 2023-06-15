@@ -25,8 +25,6 @@ I still don't quite understand how to use github.
 I am not very active on github, so it would be helpful if you could come to Liberluna's OC (on line).
 
 
-![cup](https://github-profile-trophy.vercel.app/?username=EdamAme-x)
-
 Vulnerability research, web production, etc.
 
 #### Status
