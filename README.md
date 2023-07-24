@@ -1,5 +1,14 @@
 <h1 align="center"> Hi👍 Ame'x desc</h1>
 
+<p align="left">
+  <a href="http://twitter.com/macl2189">
+    <img height="20" src="https://img.shields.io/twitter/follow/macl2189?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/edamame-x">
+    <img height="20" src="https://img.shields.io/github/followers/edamame-x?label=follow&logo=github&style=flat" />
+  </a>
+</p>
+
 self.old = [@nakasyou](https://github.com/nakasyou)
 
 Programming Start: 2023/02/01
