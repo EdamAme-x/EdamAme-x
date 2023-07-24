@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="http://twitter.com/macl2189">
-    <img height="20" src="https://img.shields.io/twitter/macl2189" />
+    <img height="20" src="https://img.shields.io/twitter/https://twitter.com/macl2189" />
   </a>
   <a href="https://github.com/edamame-x">
     <img height="20" src="https://img.shields.io/github/followers/edamame-x?label=follow&logo=github&style=flat" />
