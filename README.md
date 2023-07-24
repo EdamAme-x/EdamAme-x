@@ -1,17 +1,5 @@
 <h1 align="center"> Hi👍 Ame'x desc</h1>
 
-<p align="left">
-  <a href="http://twitter.com/macl2189">
-    <img height="20" src="https://img.shields.io/twitter/https://twitter.com/macl2189" />
-  </a>
-  <a href="https://github.com/edamame-x">
-    <img height="20" src="https://img.shields.io/github/followers/edamame-x?label=follow&logo=github&style=flat" />
-  </a>
-</p>
-
-self.old = [@nakasyou](https://github.com/nakasyou)
-
-Programming Start: 2023/02/01
 
 **2022**
 
@@ -29,7 +17,7 @@ Programming Start: 2023/02/01
 
 06/any : I'm learning angular, svelte, fresh, deno. Also actively participating in Liberluna projects.
 
-07/any : I'll try to make various things.
+07/any : I'll try to make various things. Learn lume next.js njk
 
 I still don't quite understand how to use github.
 I am not very active on github, so it would be helpful if you could come to Liberluna's OC (on line).
