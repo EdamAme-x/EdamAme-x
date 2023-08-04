@@ -1,5 +1,6 @@
 <h1 align="center"> Hi👍 Ame'x desc</h1>
 
+<h2>githubのpull shark x3 がバグで貰えてなくて不服に思っているこの頃です</h2>
 
 **2022**
 
