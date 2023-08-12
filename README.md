@@ -4,21 +4,23 @@
 
 **2022**
 
-12/any : Join @Liberluna.
+12/any : im Join @Liberluna.
 
 **2023**
 
-01 ~ 02/any : Learn about vulnerabilities. Study for certification at the same time.
+01 ~ 02/any : im Learn about vulnerabilities. Study for certification at the same time.
 
-03/any : Learn HTML, CSS, JS, Python, etc.
+03/any : im Learn HTML, CSS, JS, Python, etc.
 
-04/any : Learn C#, php, web expertise, bf.
+04/any : im Learn C#, php, web expertise, bf.
 
-05/any : Learn several frameworks(React, Vue, Node.js, etc) and Library.
+05/any : im Learn several frameworks(React, Vue, Node.js, etc) and Library.
 
 06/any : I'm learning angular, svelte, fresh, deno. Also actively participating in Liberluna projects.
 
 07/any : I'll try to make various things. Learn lume next.js njk
+
+Currently in the middle of framework development.
 
 I still don't quite understand how to use github.
 I am not very active on github, so it would be helpful if you could come to Liberluna's OC (on line).
