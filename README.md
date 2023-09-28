@@ -10,6 +10,8 @@ Programming start date: 2023 2/1
 - create Framework
 - do many things
 
+I like [Hono](https://github.com/honojs/hono) 🔥
+
 #### Status
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EdamAme-x&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EdamAme-x&theme=aura_dark)
