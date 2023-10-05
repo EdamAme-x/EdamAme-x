@@ -2,6 +2,8 @@
 
 <h2>githubのpull shark x3 がバグで貰えてなくて不服に思っているこの頃です</h2>
 
+I'm a student in Japan.
+
 Programming start date: 2023 2/1
 
 ### I can ${skill}
