@@ -4,6 +4,8 @@
 
 I'm a student in Japan.
 
+y/o = 13 ~ 14
+
 Programming start date: 2023 2/1
 
 ### I can ${skill}
