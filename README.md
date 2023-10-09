@@ -1,6 +1,7 @@
-<h1 align="center"> Hi👍 Ame'x desc</h1>
+<h1 align="center"> Hi👍 I'm Ame-x</h1>
 
-<h2>githubのpull shark x3 がバグで貰えてなくて不服に思っているこの頃です</h2>
+Please visit my website [ame-x.net](ame-x.net).
+<h2>githubのpull shark x3 がバグで貰えてなくて不服に思っている今日この頃です</h2>
 
 I'm a student in Japan.
 
