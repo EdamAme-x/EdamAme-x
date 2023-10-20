@@ -1,6 +1,6 @@
 <h1 align="center"> Hi👍 I'm Ame-x</h1>  
 
-![twitter](https://img.shields.io/twitter/follow/amex2189?style=social)](https://twitter.com/amex2189)
+[![twitter](https://img.shields.io/twitter/follow/amex2189?style=social)](https://twitter.com/amex2189)
 
 Please visit my website [ame-x.net](https://ame-x.net).
 <h2>githubのpull shark x3 がバグで貰えてなくて不服に思っている今日この頃です</h2>
