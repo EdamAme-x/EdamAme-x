@@ -18,7 +18,7 @@ Programming start date: 2023 2/1
 
 I like [Hono](https://github.com/honojs/hono) 🔥
 
-I support [Mr.Yuskebe](https://github.com/Yusukebe).
+I support [Mr.Yuske](https://github.com/Yusukebe).
 
 My homepage : [ame-x.net](https://www.ame-x.net)
 
