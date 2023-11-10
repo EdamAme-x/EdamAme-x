@@ -30,4 +30,4 @@ My homepage : [ame-x.net](https://www.ame-x.net)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EdamAme-x&theme=aura_dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EdamAme-x&theme=2077)
 
-##### I am reluctant to be active on github. We are mainly active on chat services.
+##### I am reluctant to be active on github. I´m mainly active on chat services.
