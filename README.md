@@ -14,7 +14,7 @@ Create some LINE tools
 
 The tool was used by more than 3000 people a day.
 
-I moved Japan's first open chat AIbot.
+I moved Japan's first OpenChat AI bot.
 
 
 ### I can ${skill}
