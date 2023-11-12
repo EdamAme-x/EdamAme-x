@@ -10,6 +10,13 @@ y/o = 13 ~ 14
 
 Programming start date: 2023 2/1
 
+Create some LINE tools
+
+The tool was used by more than 3000 people a day.
+
+I moved Japan's first open chat AIbot.
+
+
 ### I can ${skill}
 - create server
 - do styling
