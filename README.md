@@ -16,7 +16,7 @@ The tool was used by more than 3000 people a day.
 
 I create Japan's first OpenChat AI bot.
 
-いい感じのタスク管理アプリが欲しいと思っているこの頃
+いい感じのタスク管理アプリが欲しいと思っているこの頃 (Bitrix 24 をお試し中)
 
 ### I can ${skill}
 - create server
