@@ -16,6 +16,7 @@ The tool was used by more than 3000 people a day.
 
 I create Japan's first OpenChat AI bot.
 
+いい感じのタスク管理アプリが欲しいと思っているこの頃
 
 ### I can ${skill}
 - create server
