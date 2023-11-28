@@ -8,7 +8,7 @@ I'm a student in Japan.
 
 y/o = 13 ~ 14
 
-Programming start date: 2023 2/1
+Programming / Activity start date: 2023 5/1
 
 Create some LINE tools
 
