@@ -28,8 +28,17 @@ I support [Mr.Yuske](https://github.com/Yusukebe).
 
 My homepage : [ame-x.net](https://www.ame-x.net)
 
-#### Status
+### What I have accomplished
 
+1. [Created tool on LINE.](https://github.com/EdamAme-x/line-tool-box)
+  - I have also created semi-bots and peeking tools, ranging from send posts bot to a hijack. (5,000 people used the system daily. Now it has been regulated by the LINE operator :( )
+2. [Created tool on PayPay](https://github.com/EdamAme-x/paypay-tel-brute-force)
+  - We created a script to retrieve multiple (too many) phone numbers used by PayPay users.
+3. [Created tool on Discord](https://github.com/EdamAme-x/discord-nuker-frontend)
+  - I developed a script that allows Token management, participation, serialization, and hijacking.
+4. [All products]
+  -  Try my repository in star order and see :)
+#### Status
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EdamAme-x&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EdamAme-x&theme=aura_dark)
