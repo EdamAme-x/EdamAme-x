@@ -49,3 +49,4 @@ My homepage : [ame-x.net](https://www.ame-x.net)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EdamAme-x&theme=2077)
 
 ##### I am reluctant to be active on github. I´m mainly active on chat services.
+https://api.github.com/search/repositories?q=owner:EdamAme-x&sort=start
