@@ -27,8 +27,6 @@ I create Japan's first OpenChat AI bot.
 
 I like [Hono](https://github.com/honojs/hono) 🔥
 
-I support [Mr.Yuske](https://github.com/Yusukebe).
-
 My homepage : [ame-x.net](https://www.ame-x.net)
 
 ### What I have accomplished
