@@ -41,6 +41,7 @@ My homepage : [ame-x.net](https://www.ame-x.net)
   - [zenn](https://zenn.dev)
 5. [All products](https://github.com/EdamAme-x?tab=repositories&q=&type=&language=&sort=stargazers)
   -  Try my repository in star order and see :)
+  -  Typing game, Rakuten, etc... (and see my Gist)
 #### Status
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EdamAme-x&theme=2077)
