@@ -37,9 +37,11 @@ My homepage : [ame-x.net](https://www.ame-x.net)
   - We created a script to retrieve multiple (too many) phone numbers used by PayPay users.
 3. [Created tool on Discord](https://github.com/EdamAme-x/discord-nuker-frontend)
   - I developed a script that allows Token management, participation, serialization, and hijacking.
-4. [My article trended many times on Zenn.](https://fxtwitter.com/amex2189/status/1744622383649165764)
+4. [Created lib on PayPay](https://github.com/EdamAme-x/paypay.x.js)
+  -  PayPay UnOffical api Rapper Library | PayPay operations can be automated | Open Source 🎁
+5. [My article trended many times on Zenn.](https://fxtwitter.com/amex2189/status/1744622383649165764)
   - [zenn](https://zenn.dev)
-5. [All products](https://github.com/EdamAme-x?tab=repositories&q=&type=&language=&sort=stargazers)
+6. [All products](https://github.com/EdamAme-x?tab=repositories&q=&type=&language=&sort=stargazers)
   -  Try my repository in star order and see :)
   -  Typing game, Rakuten, etc... (and see my Gist)
 #### Status
