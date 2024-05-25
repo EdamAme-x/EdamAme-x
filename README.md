@@ -1,7 +1,4 @@
-<h1 align="center"> Hi👍 I'm Ame-x</h1>  
-
-
-LTC: **ltc1qj3f3ragm568j7lw062743w6r4k7n929ddjgq6r**
+<h1 align="left">I'm Ame-x</h1>  
 
 [![twitter](https://img.shields.io/twitter/follow/amex2189?style=social)](https://twitter.com/amex2189)
 
