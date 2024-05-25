@@ -1,4 +1,4 @@
-<h1 align="left">I'm Ame-x</h1>  
+<h1 align="left">Ame-x</h1>  
 
 [![twitter](https://img.shields.io/twitter/follow/amex2189?style=social)](https://twitter.com/amex2189)
 
@@ -8,13 +8,8 @@ I'm a student in Japan.
 
 y/o = 13 ~ 14
 
-Programming / Activity start date: 2023 5/1
-
-Create some LINE tools
-
-The tool was used by more than 5000 people a day.
-
-I create Japan's first OpenChat AI bot.
+I created some LINE tools.  
+The tool was used by more than 5000 people a day.  
 
 ### I can ${skill}
 - create server
