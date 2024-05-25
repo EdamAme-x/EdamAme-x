@@ -29,7 +29,7 @@ I like [Hono](https://github.com/honojs/hono) 🔥
 
 My homepage : [ame-x.net](https://www.ame-x.net)
 
-### What I have accomplished
+### Achievement
 
 1. [Created tool on LINE.](https://github.com/EdamAme-x/line-tool-box)
   - I have also created self-bots and peeking tools, ranging from send posts bot to a hijack. (5,000 people used the system daily. Now it has been regulated by the LINE operator :( )
@@ -43,7 +43,8 @@ My homepage : [ame-x.net](https://www.ame-x.net)
   - [zenn](https://zenn.dev)
 6. [All products](https://github.com/EdamAme-x?tab=repositories&q=&type=&language=&sort=stargazers)
   -  Try my repository in star order and see :)
-  -  Typing game, Rakuten, etc... (and see my Gist)
+  -  (and see my Gist)
+
 #### Status
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EdamAme-x&theme=2077)
