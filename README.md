@@ -2,8 +2,9 @@
 
 [![twitter](https://img.shields.io/twitter/follow/amex2189?style=social)](https://twitter.com/amex2189)
 
-Please visit my website [ame-x.net](https://ame-x.net).
+Please visit my website [ame-x.net](https://ame-x.net) ❤
 
+## Profile
 I'm a student in Japan.
 
 y/o = 13 ~ 14
@@ -13,9 +14,8 @@ y/o = 13 ~ 14
 - Toriatu - [@njiqpTEGK67Nfzt](https://twitter.com/njiqpTEGK67Nfzt)
 
 Thank for my sponsors.
- 
-I created some LINE tools.  
-The tool was used by more than 5000 people a day.  
+
+---
 
 ### I can ${skill}
 - create server
@@ -28,6 +28,9 @@ I like [Hono](https://github.com/honojs/hono) 🔥
 My homepage : [ame-x.net](https://www.ame-x.net)
 
 ### Achievement
+
+I created some LINE tools.  
+The tool was used by more than 5000 people a day.  
 
 1. [Created tool on LINE.](https://github.com/EdamAme-x/line-tool-box)
   - I have also created self-bots and peeking tools, ranging from send posts bot to a hijack. (5,000 people used the system daily. Now it has been regulated by the LINE operator :( )
