@@ -8,6 +8,12 @@ I'm a student in Japan.
 
 y/o = 13 ~ 14
 
+## Sponsors
+- Samex - [@samex1190453](https://twitter.com/samex1190453)
+- Toriatu - [@njiqpTEGK67Nfzt](https://twitter.com/njiqpTEGK67Nfzt)
+
+Thank for my sponsors.
+ 
 I created some LINE tools.  
 The tool was used by more than 5000 people a day.  
 
