@@ -12,7 +12,6 @@ y/o = 13 ~ 14
 
 ## Sponsors
 - Samex - [@samex1190453](https://twitter.com/samex1190453)
-- Toriatu - [@njiqpTEGK67Nfzt](https://twitter.com/njiqpTEGK67Nfzt)
 
 Thank for my sponsors.
 
