@@ -6,7 +6,7 @@
 Please visit my website [ame-x.net](https://ame-x.net) ❤
 
 ## Profile
-I'm a student in Japan.
+I'm a student in Japan. (middle)
 
 ## Sponsors
 - Samex - [@samex1190453](https://twitter.com/samex1190453)
