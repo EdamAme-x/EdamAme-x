@@ -4,6 +4,7 @@
 ![Profile view](https://komarev.com/ghpvc/?username=EdamAme-x&color=lightgrey)
 
 Please visit my website [ame-x.net](https://ame-x.net) ❤
+Disocrd Channel: [https://evex.land](https://evex.land)
 
 ## Profile
 I'm a student in Japan. (middle)
