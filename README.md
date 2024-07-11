@@ -3,8 +3,8 @@
 [![twitter](https://img.shields.io/twitter/follow/amex2189?style=social)](https://twitter.com/amex2189)
 ![Profile view](https://komarev.com/ghpvc/?username=EdamAme-x&color=lightgrey)
 
-Please visit my website [ame-x.net](https://ame-x.net) ❤
-Disocrd Channel: [https://evex.land](https://evex.land)
+Please visit my website [ame-x.net](https://ame-x.net) ❤  
+Disocrd Server: [https://evex.land](https://evex.land) ✨
 
 ## Profile
 I'm a student in Japan. (middle)
