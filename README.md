@@ -24,8 +24,6 @@ Thank for my sponsors.
 
 I like [Hono](https://github.com/honojs/hono) 🔥
 
-My homepage : [ame-x.net](https://www.ame-x.net)
-
 ### Achievement
 
 I provided many tools, OSS, and articles.  
