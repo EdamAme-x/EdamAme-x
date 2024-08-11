@@ -8,7 +8,7 @@ Disocrd Server: [https://evex.land](https://evex.land) ✨
 
 ## Profile
 I'm a student in Japan. (middle)  
-I don't hate bun, I love Deno
+I don't hate Bun, I love Deno
 
 ## Sponsors
 - Samex - [@samex1190453](https://twitter.com/samex1190453)
