@@ -7,7 +7,8 @@ Please visit my website [ame-x.net](https://ame-x.net) ❤
 Disocrd Server: [https://evex.land](https://evex.land) ✨
 
 ## Profile
-I'm a student in Japan. (middle)
+I'm a student in Japan. (middle)  
+I don't hate bun, I love Deno
 
 ## Sponsors
 - Samex - [@samex1190453](https://twitter.com/samex1190453)
