@@ -1,4 +1,4 @@
-<h1 align="left">Ame-x</h1>  
+<h1 align="left">EdamAmex</h1>  
 
 [![twitter](https://img.shields.io/twitter/follow/amex2189?style=social)](https://twitter.com/amex2189)
 ![Profile view](https://komarev.com/ghpvc/?username=EdamAme-x&color=lightgrey)
