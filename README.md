@@ -3,7 +3,7 @@
 [![twitter](https://img.shields.io/twitter/follow/amex2189?style=social)](https://twitter.com/amex2189)
 ![Profile view](https://komarev.com/ghpvc/?username=EdamAme-x&color=lightgrey)
 
-<a href="https://trendshift.io/developers/6698" target="_blank"><img src="https://trendshift.io/api/badge/developers/6698" alt="EdamAme-x | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<a href="/" target="_blank"><img src="https://trendshift.io/api/badge/developers/6698" alt="EdamAme-x | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 Please visit my website [ame-x.net](https://ame-x.net) ❤  
 Disocrd Server: [https://evex.land](https://evex.land) ✨
