@@ -39,7 +39,6 @@ The tool was used by more than 5000 people a day.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EdamAme-x&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EdamAme-x&theme=aura_dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EdamAme-x&theme=2077)
-![](https://github-profile-trophy.vercel.app/?username=EdamAme-x&title=MultiLanguage,Organizations,Commits,Repositories,Stars,PullRequest,Followers,Issues)
 
 ##### I am reluctant to be active on github. I´m mainly active on chat services.
 https://api.github.com/search/repositories?q=owner:EdamAme-x&sort=start
