@@ -7,6 +7,7 @@
 
 Please visit my website [ame-x.net](https://ame-x.net) ❤  
 Disocrd Server: [https://evex.land](https://evex.land) ✨
+Please call me 'amex' in English. (Japanese: EdamAmex)
 
 ## Profile
 I'm a student in Japan. (middle)  
