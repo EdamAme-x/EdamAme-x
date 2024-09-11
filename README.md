@@ -6,7 +6,7 @@
 <a href="/" target="_blank"><img src="https://trendshift.io/api/badge/developers/6698" alt="EdamAme-x | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 Please visit my website [ame-x.net](https://ame-x.net) ❤  
-Disocrd Server: [https://evex.land](https://evex.land) ✨
+Disocrd Server: [https://evex.land](https://evex.land) ✨  
 Please call me 'amex' in English. (Japanese: EdamAmex)
 
 ## Profile
