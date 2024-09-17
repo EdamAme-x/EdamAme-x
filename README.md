@@ -9,30 +9,11 @@ Please visit my website [ame-x.net](https://ame-x.net) ❤
 Disocrd Server: [https://evex.land](https://evex.land) ✨  
 Please call me 'amex' in English. (Japanese: EdamAmex)
 
-## Profile
+## 📇 Profile
 I'm a student in Japan. (middle)  
 I don't hate Bun, I love Deno
 
-## Sponsors
-- Samex - [@samex1190453](https://twitter.com/samex1190453)
-
-Thank for my sponsors.
-
----
-
-### I can ${skill}
-- create server
-- do styling
-- create Framework
-- do many things
-
-I like [Hono](https://github.com/honojs/hono) 🔥
-
-### Achievement
-
-I provided many tools, OSS, and articles.  
-You can find them in my repository.  
-The tool was used by more than 5000 people a day.  
+Profile is being built.
 
 #### Status
 
@@ -41,7 +22,3 @@ The tool was used by more than 5000 people a day.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EdamAme-x&theme=aura_dark&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EdamAme-x&theme=2077)
 
-##### I am reluctant to be active on github. I´m mainly active on chat services.
-https://api.github.com/search/repositories?q=owner:EdamAme-x&sort=start
-
-<!--work experience-->
