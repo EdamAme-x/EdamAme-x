@@ -13,7 +13,7 @@ Please call me 'amex' in English. (Japanese: EdamAmex)
 I'm a student in Japan. (middle)  
 I don't hate Bun, I love Deno
 
-####　🚦 Status
+### 🚦 Status
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EdamAme-x&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EdamAme-x&theme=aura_dark)
