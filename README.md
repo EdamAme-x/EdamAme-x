@@ -13,9 +13,9 @@ Please call me 'amex' in English. (Japanese: EdamAmex)
 I'm a student in Japan. (middle)  
 I don't hate Bun, I love Deno
 
-I'm also a web developer and OSS contributor.  
-Of course, I can do backend and communication analysis.  
-I can do numerous things, so please ask me through twitter or other means.   
+I'm also **a Web developer** and **OSS contributor**.  
+Of course, I can do **backend** and *transmission analysis**.  
+I can do numerous things, so please ask me through *twitter* or other means.   
 
 ### 🚦 Status
 
