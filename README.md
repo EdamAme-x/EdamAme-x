@@ -14,7 +14,7 @@ I'm a student in Japan. (middle)
 I don't hate Bun, I love Deno
 
 I'm also **a Web developer** and **OSS contributor**.  
-Of course, I can do **backend** and **Network analysis**.  
+Of course, I can do **Backend** and **Network analysis**.  
 I can do numerous things, so please ask me through *Twitter* or other means.   
 
 ### 🚦 Status
