@@ -31,19 +31,19 @@
 </div>
 
 <div align="center">
-## 📇 Profile
-I'm a student in Japan. (middle)  
-I don't hate Bun, I love Deno
+<h2>📇 Profile</h2><br/>
+I'm a student in Japan. (middle)  <br/>
+I don't hate Bun, I love Deno<br/>
 
-I'm also **a Web developer** and **OSS contributor**.  
-Of course, I can do **Backend** and **Network analysis**.  
-I can do numerous things, so please ask me through *Twitter* or other means.   
+I'm also **a Web developer** and **OSS contributor**.  <br/>
+Of course, I can do **Backend** and **Network analysis**.  <br/>
+I can do numerous things, so please ask me through *Twitter* or other means.   <br/>
 
-### 🚦 Status
+<h2>🚦 Status</h2>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EdamAme-x&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EdamAme-x&theme=aura_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EdamAme-x&theme=aura_dark&utcOffset=8)
-</div>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EdamAme-x&theme=2077)
+</div>
 
