@@ -6,7 +6,7 @@
 <a href="/" target="_blank"><img src="https://trendshift.io/api/badge/developers/6698" alt="EdamAme-x | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 Please visit my website [ame-x.net](https://ame-x.net) ❤  
-Disocrd Server: [evex.land](https://evex.land) ✨  
+Discord Server: [evex.land](https://evex.land) ✨  
 Please call me 'amex' in English. (Japanese: EdamAmex)
 
 ## 📇 Profile
@@ -14,8 +14,8 @@ I'm a student in Japan. (middle)
 I don't hate Bun, I love Deno
 
 I'm also **a Web developer** and **OSS contributor**.  
-Of course, I can do **backend** and **transmission analysis**.  
-I can do numerous things, so please ask me through *twitter* or other means.   
+Of course, I can do **backend** and **Network analysis**.  
+I can do numerous things, so please ask me through *Twitter* or other means.   
 
 ### 🚦 Status
 
