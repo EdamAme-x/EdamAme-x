@@ -1,15 +1,4 @@
 <h1 align="center">🚀 EdamAmex</h1>  
-<!-- <div align="center">
-  <table>
-    <td style="margin: auto 0;">
-      <a href="https://twitter.com/amex2189">
-        <img src="https://img.shields.io/twitter/follow/amex2189?style=social" alt="twitter" />
-        <img src="https://komarev.com/ghpvc/?username=EdamAme-x&color=lightgrey" alt="views" />
-      </a>
-    </td>
-  </table>
-</div> -->
-
 <div align="center">
 
 <div style="text-align: center;">
@@ -32,6 +21,17 @@
 
 <div align="center">
 <h2>📇 Profile</h2><br/>
+  <div align="center">
+  <table>
+      <a href="https://twitter.com/amex2189">
+        <img src="https://img.shields.io/twitter/follow/amex2189?style=social" alt="twitter" />
+      </a>
+      <a href="https://twitter.com/amex2189">
+        <img src="https://komarev.com/ghpvc/?username=EdamAme-x&color=lightgrey" alt="views" />
+      </a>
+  </table>
+</div>
+
 <table style="margin: 0 auto;">
 <td>
 I'm a student in Japan. (middle)  <br/>
