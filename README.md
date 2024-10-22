@@ -1,9 +1,20 @@
-<h1 align="left">EdamAmex</h1>  
+<h1 align="center">🚀 EdamAmex</h1>  
+<div align="center">
+  <a href="https://twitter.com/amex2189">
+      <img src="https://img.shields.io/twitter/follow/amex2189?style=social" alt="twitter" />
+      <img src="https://komarev.com/ghpvc/?username=EdamAme-x&color=lightgrey" alt="views" />
+  </a>
+</div>
 
-[![twitter](https://img.shields.io/twitter/follow/amex2189?style=social)](https://twitter.com/amex2189)
-![Profile view](https://komarev.com/ghpvc/?username=EdamAme-x&color=lightgrey)
+<div align="center">
 
-<a href="/" target="_blank"><img src="https://trendshift.io/api/badge/developers/6698" alt="EdamAme-x | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<div style="text-align: center;">
+  <table style="margin: 0 auto;">
+          <a href="/" target="_blank"><img src="https://trendshift.io/api/badge/developers/6698" alt="EdamAme-x | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+  </table>
+</div>
+
+</div>
 
 Please visit my website [ame-x.net](https://ame-x.net) ❤  
 Discord Server: [evex.land](https://evex.land) ✨  
