@@ -32,12 +32,16 @@
 
 <div align="center">
 <h2>📇 Profile</h2><br/>
+<table style="margin: 0 auto;">
+<td>
 I'm a student in Japan. (middle)  <br/>
-I don't hate Bun, I love Deno<br/>
+I don't hate Bun, I love Deno<br/><br/>
 
 I'm also **a Web developer** and **OSS contributor**.  <br/>
 Of course, I can do **Backend** and **Network analysis**.  <br/>
 I can do numerous things, so please ask me through *Twitter* or other means.   <br/>
+</td>
+</table>
 
 <h2>🚦 Status</h2>
 
