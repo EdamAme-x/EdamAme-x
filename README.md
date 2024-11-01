@@ -46,7 +46,7 @@ I can do numerous things, so please ask me through *Twitter* or other means.   <
 <h2>🚦 Status</h2>
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=EdamAme-x&limit=5&theme=dark&combine_all_yearly_contributions=false&v=1" alt="contr" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=EdamAme-x&limit=5&theme=dark&combine_all_yearly_contributions=false&v=0" alt="contr" />
 </div>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EdamAme-x&theme=2077)
