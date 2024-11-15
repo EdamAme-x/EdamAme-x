@@ -12,7 +12,7 @@
 <div align="center">
   <table>
     <td style="margin: auto 0;">
-      Please visit my website <a href="https://ame-x.net">ame-x.net</a> ❤ <br />
+      Please visit my website <a href="https://edamamex.dev/">edamamex.dev</a> ❤ <br />
       Discord Server: <a href="https://evex.land">evex.land</a> ✨ <br />
       Please call me 'amex' in English. (Japanese: EdamAmex) 
     </td>
