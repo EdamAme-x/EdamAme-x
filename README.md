@@ -12,7 +12,7 @@
 <div align="center">
   <table>
     <td style="margin: auto 0;">
-      <p align="center">#Limitless</p><br />
+      <h3 align="center">#Limitless</h3><br />
       Please visit my portfolio <a href="https://edamamex.dev/">edamamex.dev</a> ❤ <br />
       Discord Server: <a href="https://evex.land">evex.land</a> ✨ <br />
       Please call me 'amex' in English. (Japanese: EdamAmex) 
