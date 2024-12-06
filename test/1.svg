@@ -40,8 +40,8 @@
 
     .light {
         width: 75%;
-        margin: -1px auto;
-        height: 1px;
+        margin: -3px auto;
+        height: 3px;
         background: linear-gradient(
             90deg,
             rgba(0, 0, 0, 0) 0%,
