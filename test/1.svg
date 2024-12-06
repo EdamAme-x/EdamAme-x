@@ -86,6 +86,7 @@
                             <p>I don't hate Bun, I love Deno🦕</p>
                         </div>
                     </div>
+                    <div class="triangle"></div>
                 </div>
             </div>
 
@@ -212,6 +213,51 @@
 
                 .content > .details > p {
                     margin: 4px;
+                }
+
+                .triangle {
+                    position: absolute;
+                    top: 75px;
+                    right: 125px;
+                    width: 650px;
+                    aspect-ratio: 1/cos(30deg);
+                    clip-path: polygon(50% 0, 100% 100%, 0 100%);
+                    background-image: conic-gradient(
+                        from var(--angle),
+                        #ff454577,
+                        #00ff9977,
+                        #006aff77,
+                        #ff009577,
+                        #ff454577
+                    );
+                    animation: spin 5s cubic-bezier(0.4, 0.2, 0, 0.1) Infinite;
+                    filter: blur(20px);
+                }
+
+                .triangle::before {
+                    content: "";
+                    position: absolute;
+                    top: 25px;
+                    left: 25px;
+                    width: 600px;
+                    aspect-ratio: 1/cos(30deg);
+                    clip-path: polygon(50% 0, 100% 100%, 0 100%);
+                    background-color: #000000;
+                }
+
+                @property --angle {
+                    syntax: "<angle>";
+                    initial-value: 0deg;
+                    inherits: false;
+                }
+
+                @keyframes spin {
+                    from {
+                        --angle: 0deg;
+                    }
+                    to {
+                        --angle: 360deg;
+                    }
                 }
 
                 @keyframes movebg {
