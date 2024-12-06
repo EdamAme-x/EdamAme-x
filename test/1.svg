@@ -4,7 +4,6 @@
     <div class="container">
         <div class="shiny-border">
             <div class="light"></div>
-            <div class="spotlight"></div>
             <div class="content">
                 <div class="name">EdamAmex</div>
                 <div class="description">I'm Web Developer and Contributor of OSS</div>
@@ -49,19 +48,6 @@ font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, san
             rgba(143, 143, 143, 0.67) 50%,
             rgba(0, 0, 0, 0) 100%
         );
-    }
-
-    .spotlight {
-        position: absolute;
-        z-index: -1;
-        inset: 0px;
-        width: 100%;
-        transform: scale(0.8);
-        margin: -150px auto;
-        height: 300px;
-        background:
-            conic-gradient(from 90deg at 50% 50%, #00000000 50%, #000 50%),
-            radial-gradient(rgba(200, 200, 200, 0.2) 0%, transparent 80%);
     }
 
     .content {
