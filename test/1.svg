@@ -13,9 +13,11 @@
     </div>
 
 <style>
+    * {
+        box-sizing: border-box;
+    }
+
     .container {
-        margin: 0;
-        background: #000000;
         display: flex;
         justify-content: center;
         align-items: center;
