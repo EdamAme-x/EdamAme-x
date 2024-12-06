@@ -1,11 +1,7 @@
 <svg fill="none" viewBox="0 0 1500 800" width="1500" height="800" xmlns="http://www.w3.org/2000/svg">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
-         <html>
-    <head>
-        <title>EdamAmex</title>
-    </head>
-    <body class="container">
+    <div class="container">
         <div class="shiny-border">
             <div class="light"></div>
             <div class="spotlight"></div>
@@ -14,8 +10,7 @@
                 <div class="description">I'm Web Developer and Contributor of OSS</div>
             </div>
         </div>
-    </body>
-</html>
+    </div>
 
 <style>
     .container {
@@ -30,8 +25,8 @@
 
     .shiny-border {
         position: relative;
-        width: 80%;
-        height: 80%;
+        width: 100%;
+        height: 100%;
         border-radius: 1.5rem;
         border: 1px solid #d6ebfd30;
         box-shadow: inset 0 -30px 20px #ffffff12;
