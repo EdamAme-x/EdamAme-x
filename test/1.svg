@@ -81,6 +81,10 @@
                                 </span>
                             </p>
                         </div>
+                        <div class="details">
+                            <p>I'm a middle student in Tokyo Japan🗼</p>
+                            <p>I don't hate Bun, I love Deno🦕</p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -105,7 +109,7 @@
                 .shiny-border {
                     position: relative;
                     width: 95%;
-                    height: 600px;
+                    height: 800px;
                     border-radius: 3rem;
                     border: 3px solid #d6ebfd30;
                     box-shadow: inset 0 -30px 20px #ffffff12;
@@ -191,6 +195,23 @@
                     margin-top: 10px;
                     margin-left: 20px;
                     font-size: 26px;
+                }
+
+                .content > .details {
+                    width: fit-content;
+                    display: flex;
+                    flex-direction: column;
+                    margin-top: 48px;
+                    color: #a8a8a8;
+                    font-size: 26px;
+                    box-shadow: inset 0 0px 20px #ffffff22;
+                    border: 1px solid #d6ebfd20;
+                    padding: 24px;
+                    border-radius: 10px;
+                }
+
+                .content > .details > p {
+                    margin: 4px;
                 }
 
                 @keyframes movebg {
