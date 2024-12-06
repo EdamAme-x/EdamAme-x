@@ -30,7 +30,7 @@
 
     .shiny-border {
         position: relative;
-        width: 100%;
+        width: 95%;
         height: 400px;
         border-radius: 1.5rem;
         border: 1px solid #d6ebfd30;
