@@ -91,6 +91,8 @@
             </div>
 
             <style>
+                @import url("./style.css"); 
+
                 * {
                     box-sizing: border-box;
                 }
@@ -246,7 +248,7 @@
                 }
 
                 @property --angle {
-<!--                     syntax: "<angle>"; -->
+                    syntax: "<angle>";
                     initial-value: 0deg;
                     inherits: false;
                 }
