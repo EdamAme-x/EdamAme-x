@@ -252,10 +252,23 @@
                 }
 
                 @keyframes spin {
-                    from {
+                    0% {
                         --angle: 0deg;
                     }
-                    to {
+
+                    20% {
+                        --angle: 90deg;
+                    }
+
+                    25% {
+                        --angle: 75deg;
+                    }
+
+                    85% {
+                        --angle: 280deg;
+                    }
+
+                    100% {
                         --angle: 360deg;
                     }
                 }
