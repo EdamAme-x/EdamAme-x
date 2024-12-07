@@ -177,7 +177,7 @@
                 }
 
                 .content > .urls > p {
-                    margin: 0;
+                    margin: 5px;
                 }
 
                 .content > .urls > p > span:nth-child(1) {
