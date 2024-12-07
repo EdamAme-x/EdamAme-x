@@ -1,0 +1,1353 @@
+<!-- 複製を禁じます。 Do not copy -->
+<svg
+    fill="none"
+    viewBox="0 0 355 230"
+    width="355"
+    height="230"
+    xmlns="http://www.w3.org/2000/svg"
+>
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <div class="container">
+                <div class="shiny-border">
+                    <div class="light"></div>
+                    <div class="content">
+                        <div class="name">EdamAmex</div>
+                        <div class="description">
+                            I'm Web Developer and Contributor of OSS
+                        </div>
+                        <div class="urls">
+                            <p>
+                                <span>My Portfolio</span>
+                                <span>
+                                    <svg
+                                        fill="#747474"
+                                        viewBox="0 0 52 52"
+                                        width="36"
+                                        data-name="Layer 1"
+                                        xmlns="http://www.w3.org/2000/svg"
+                                        style="margin-bottom: -5px"
+                                    >
+                                        <g
+                                            id="SVGRepo_bgCarrier"
+                                            stroke-width="0"
+                                        >
+                                        </g>
+                                        <g
+                                            id="SVGRepo_tracerCarrier"
+                                            stroke-linecap="round"
+                                            stroke-linejoin="round"
+                                        >
+                                        </g>
+                                        <g id="SVGRepo_iconCarrier">
+                                            <path
+                                                d="M44.88,11.82s-2.38-4.91-7.7-4.91S29.34,12,29.34,12a7.94,7.94,0,0,0-6.75,0s-2.45-5.05-7.77-5.05-7.7,4.91-7.7,4.91S2.14,22.93,2,32.89s6.48,12.2,9.61,12.2c3.41,0,11.46-1.43,11.05-12.61a3.26,3.26,0,0,1,3.07-1.84,4.06,4.06,0,0,1,3.68,1.84C29,43.66,37,45.09,40.39,45.09c3.06,0,9.74-2.39,9.61-12.2S44.88,11.82,44.88,11.82ZM12.23,40.73a5.94,5.94,0,1,1,5.93-5.94A5.94,5.94,0,0,1,12.23,40.73Zm27.54,0a5.94,5.94,0,1,1,5.93-5.94A5.94,5.94,0,0,1,39.77,40.73Z"
+                                            >
+                                            </path>
+                                        </g>
+                                    </svg>
+                                    <span>https://edamamex.dev</span>
+                                </span>
+                            </p>
+                            <p>
+                                <span>Our Community</span>
+                                <span>
+                                    <svg
+                                        fill="#747474"
+                                        viewBox="0 0 52 52"
+                                        width="36"
+                                        data-name="Layer 1"
+                                        xmlns="http://www.w3.org/2000/svg"
+                                        style="margin-bottom: -5px"
+                                    >
+                                        <g
+                                            id="SVGRepo_bgCarrier"
+                                            stroke-width="0"
+                                        >
+                                        </g>
+                                        <g
+                                            id="SVGRepo_tracerCarrier"
+                                            stroke-linecap="round"
+                                            stroke-linejoin="round"
+                                        >
+                                        </g>
+                                        <g id="SVGRepo_iconCarrier">
+                                            <path
+                                                d="M44.88,11.82s-2.38-4.91-7.7-4.91S29.34,12,29.34,12a7.94,7.94,0,0,0-6.75,0s-2.45-5.05-7.77-5.05-7.7,4.91-7.7,4.91S2.14,22.93,2,32.89s6.48,12.2,9.61,12.2c3.41,0,11.46-1.43,11.05-12.61a3.26,3.26,0,0,1,3.07-1.84,4.06,4.06,0,0,1,3.68,1.84C29,43.66,37,45.09,40.39,45.09c3.06,0,9.74-2.39,9.61-12.2S44.88,11.82,44.88,11.82ZM12.23,40.73a5.94,5.94,0,1,1,5.93-5.94A5.94,5.94,0,0,1,12.23,40.73Zm27.54,0a5.94,5.94,0,1,1,5.93-5.94A5.94,5.94,0,0,1,39.77,40.73Z"
+                                            >
+                                            </path>
+                                        </g>
+                                    </svg>
+                                    <span>https://evex.land</span>
+                                </span>
+                            </p>
+                        </div>
+                        <div class="details">
+                            <p>I'm a middle student in Tokyo Japan🗼</p>
+                            <p>I don't hate Bun, I love Deno🦕</p>
+                        </div>
+                    </div>
+                    <div class="triangle"></div>
+                </div>
+            </div>
+
+            <style>
+                * {
+                    box-sizing: border-box;
+                }
+
+                .container {
+                    font-family: system-ui;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    margin: 0;
+                    width: 100%;
+                    height: 800px;
+                    position: relative;
+                    overflow: hidden;
+                }
+
+                .shiny-border {
+                    position: relative;
+                    width: 95%;
+                    height: 800px;
+                    border-radius: 3rem;
+                    border: 3px solid #d6ebfd30;
+                    box-shadow: inset 0 -30px 20px #ffffff12;
+                    background: #000000;
+                }
+
+                .light {
+                    width: 75%;
+                    margin: -3px auto;
+                    height: 3px;
+                    background: linear-gradient(
+                        90deg,
+                        rgba(0, 0, 0, 0) 0%,
+                        rgba(255, 255, 255, 0.0) 0%,
+                        rgba(143, 143, 143, 0.67) 50%,
+                        rgba(0, 0, 0, 0) 100%
+                    );
+                }
+
+                .content {
+                    padding: 48px 96px;
+                }
+
+                .content > .name {
+                    font-size: 100px;
+                    font-weight: 700;
+                    background-image: linear-gradient(
+                        135deg,
+                        #6d28d9,
+                        #db2777,
+                        #22d3ee,
+                        #10b981,
+                        #fcd34d,
+                        #10b981,
+                        #22d3ee,
+                        #db2777,
+                        #6d28d9
+                    );
+                    background-size: 400% auto;
+                    -webkit-background-clip: text;
+                    -webkit-text-fill-color: transparent;
+                    background-clip: text;
+                    text-fill-color: transparent;
+                    animation: movebg 16s cubic-bezier(0.3, 0, 0.2, 1) infinite;
+                    filter: drop-shadow(0px 0px 10px rgba(255, 255, 255, 0.2));
+                    text-shadow: 0 0 45px rgba(143, 16, 185, 0.25);
+                }
+
+                .content > .description {
+                    font-size: 36px;
+                    font-weight: 400;
+                    color: #838383;
+                    text-shadow: 0 0 25px #ffffff22;
+                }
+
+                .content > .urls {
+                    display: flex;
+                    flex-direction: column;
+                    gap: 1px;
+                    margin-top: 48px;
+                    margin-left: 20px;
+                    color: #a3a3a3;
+                }
+
+                .content > .urls > p > span:nth-child(1) {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: start;
+                    gap: 8px;
+                    font-size: 34px;
+                    font-weight: 800;
+                    background-image: linear-gradient(45deg, #797979 4%, #fff 50%, #000);
+                    -webkit-background-clip: text;
+                    -webkit-text-fill-color: transparent;
+                    background-clip: text;
+                    text-fill-color: transparent;
+                }
+
+                .content > .urls > p > span:nth-child(2) {
+                    display: flex;
+                    align-items: center;
+                    gap: 16px;
+                    margin-top: 10px;
+                    margin-left: 20px;
+                    font-size: 26px;
+                }
+
+                .content > .details {
+                    width: fit-content;
+                    display: flex;
+                    flex-direction: column;
+                    margin-top: 48px;
+                    color: #a8a8a8;
+                    font-size: 26px;
+                    box-shadow: inset 0 0px 20px #ffffff22;
+                    border: 1px solid #d6ebfd20;
+                    padding: 24px;
+                    border-radius: 10px;
+                }
+
+                .content > .details > p {
+                    margin: 4px;
+                }
+
+                .triangle {
+                    position: absolute;
+                    top: 75px;
+                    right: 125px;
+                    width: 650px;
+                    aspect-ratio: 1/cos(30deg);
+                    clip-path: polygon(50% 0, 100% 100%, 0 100%);
+                    background-image: conic-gradient(
+                        from var(--angle),
+                        #ff454577,
+                        #00ff9977,
+                        #006aff77,
+                        #ff009577,
+                        #ff454577
+                    );
+                    animation: spin 5s cubic-bezier(0.4, 0.2, 0, 0.1) Infinite;
+                    filter: blur(20px);
+                }
+
+                .triangle::before {
+                    content: "";
+                    position: absolute;
+                    top: 25px;
+                    left: 25px;
+                    width: 600px;
+                    aspect-ratio: 1/cos(30deg);
+                    clip-path: polygon(50% 0, 100% 100%, 0 100%);
+                    background-color: #000000;
+                }
+
+                @property --angle {
+                    syntax: "0deg | 1deg | 2deg | 3deg | 4deg | 5deg | 6deg | 7deg | 8deg | 9deg | 10deg | 11deg | 12deg | 13deg | 14deg | 15deg | 16deg | 17deg | 18deg | 19deg | 20deg | 21deg | 22deg | 23deg | 24deg | 25deg | 26deg | 27deg | 28deg | 29deg | 30deg | 31deg | 32deg | 33deg | 34deg | 35deg | 36deg | 37deg | 38deg | 39deg | 40deg | 41deg | 42deg | 43deg | 44deg | 45deg | 46deg | 47deg | 48deg | 49deg | 50deg | 51deg | 52deg | 53deg | 54deg | 55deg | 56deg | 57deg | 58deg | 59deg | 60deg | 61deg | 62deg | 63deg | 64deg | 65deg | 66deg | 67deg | 68deg | 69deg | 70deg | 71deg | 72deg | 73deg | 74deg | 75deg | 76deg | 77deg | 78deg | 79deg | 80deg | 81deg | 82deg | 83deg | 84deg | 85deg | 86deg | 87deg | 88deg | 89deg | 90deg | 91deg | 92deg | 93deg | 94deg | 95deg | 96deg | 97deg | 98deg | 99deg | 100deg | 101deg | 102deg | 103deg | 104deg | 105deg | 106deg | 107deg | 108deg | 109deg | 110deg | 111deg | 112deg | 113deg | 114deg | 115deg | 116deg | 117deg | 118deg | 119deg | 120deg | 121deg | 122deg | 123deg | 124deg | 125deg | 126deg | 127deg | 128deg | 129deg | 130deg | 131deg | 132deg | 133deg | 134deg | 135deg | 136deg | 137deg | 138deg | 139deg | 140deg | 141deg | 142deg | 143deg | 144deg | 145deg | 146deg | 147deg | 148deg | 149deg | 150deg | 151deg | 152deg | 153deg | 154deg | 155deg | 156deg | 157deg | 158deg | 159deg | 160deg | 161deg | 162deg | 163deg | 164deg | 165deg | 166deg | 167deg | 168deg | 169deg | 170deg | 171deg | 172deg | 173deg | 174deg | 175deg | 176deg | 177deg | 178deg | 179deg | 180deg | 181deg | 182deg | 183deg | 184deg | 185deg | 186deg | 187deg | 188deg | 189deg | 190deg | 191deg | 192deg | 193deg | 194deg | 195deg | 196deg | 197deg | 198deg | 199deg | 200deg | 201deg | 202deg | 203deg | 204deg | 205deg | 206deg | 207deg | 208deg | 209deg | 210deg | 211deg | 212deg | 213deg | 214deg | 215deg | 216deg | 217deg | 218deg | 219deg | 220deg | 221deg | 222deg | 223deg | 224deg | 225deg | 226deg | 227deg | 228deg | 229deg | 230deg | 231deg | 232deg | 233deg | 234deg | 235deg | 236deg | 237deg | 238deg | 239deg | 240deg | 241deg | 242deg | 243deg | 244deg | 245deg | 246deg | 247deg | 248deg | 249deg | 250deg | 251deg | 252deg | 253deg | 254deg | 255deg | 256deg | 257deg | 258deg | 259deg | 260deg | 261deg | 262deg | 263deg | 264deg | 265deg | 266deg | 267deg | 268deg | 269deg | 270deg | 271deg | 272deg | 273deg | 274deg | 275deg | 276deg | 277deg | 278deg | 279deg | 280deg | 281deg | 282deg | 283deg | 284deg | 285deg | 286deg | 287deg | 288deg | 289deg | 290deg | 291deg | 292deg | 293deg | 294deg | 295deg | 296deg | 297deg | 298deg | 299deg | 300deg | 301deg | 302deg | 303deg | 304deg | 305deg | 306deg | 307deg | 308deg | 309deg | 310deg | 311deg | 312deg | 313deg | 314deg | 315deg | 316deg | 317deg | 318deg | 319deg | 320deg | 321deg | 322deg | 323deg | 324deg | 325deg | 326deg | 327deg | 328deg | 329deg | 330deg | 331deg | 332deg | 333deg | 334deg | 335deg | 336deg | 337deg | 338deg | 339deg | 340deg | 341deg | 342deg | 343deg | 344deg | 345deg | 346deg | 347deg | 348deg | 349deg | 350deg | 351deg | 352deg | 353deg | 354deg | 355deg | 356deg | 357deg | 358deg | 359deg";
+                    initial-value: 0deg;
+                    inherits: false;
+                }
+
+                @keyframes spin {
+                    0% {
+                        --angle: 0deg;
+                    }
+
+                    0.27% {
+                        --angle: 1deg;
+                    }
+                    0.55% {
+                        --angle: 2deg;
+                    }
+                    0.83% {
+                        --angle: 3deg;
+                    }
+                    1.11% {
+                        --angle: 4deg;
+                    }
+                    1.38% {
+                        --angle: 5deg;
+                    }
+                    1.66% {
+                        --angle: 6deg;
+                    }
+                    1.94% {
+                        --angle: 7deg;
+                    }
+                    2.22% {
+                        --angle: 8deg;
+                    }
+                    2.5% {
+                        --angle: 9deg;
+                    }
+                    2.77% {
+                        --angle: 10deg;
+                    }
+                    3.05% {
+                        --angle: 11deg;
+                    }
+                    3.33% {
+                        --angle: 12deg;
+                    }
+                    3.61% {
+                        --angle: 13deg;
+                    }
+                    3.88% {
+                        --angle: 14deg;
+                    }
+                    4.16% {
+                        --angle: 15deg;
+                    }
+                    4.44% {
+                        --angle: 16deg;
+                    }
+                    4.72% {
+                        --angle: 17deg;
+                    }
+                    5% {
+                        --angle: 18deg;
+                    }
+                    5.27% {
+                        --angle: 19deg;
+                    }
+                    5.55% {
+                        --angle: 20deg;
+                    }
+                    5.83% {
+                        --angle: 21deg;
+                    }
+                    6.11% {
+                        --angle: 22deg;
+                    }
+                    6.38% {
+                        --angle: 23deg;
+                    }
+                    6.66% {
+                        --angle: 24deg;
+                    }
+                    6.94% {
+                        --angle: 25deg;
+                    }
+                    7.22% {
+                        --angle: 26deg;
+                    }
+                    7.5% {
+                        --angle: 27deg;
+                    }
+                    7.77% {
+                        --angle: 28deg;
+                    }
+                    8.05% {
+                        --angle: 29deg;
+                    }
+                    8.33% {
+                        --angle: 30deg;
+                    }
+                    8.61% {
+                        --angle: 31deg;
+                    }
+                    8.88% {
+                        --angle: 32deg;
+                    }
+                    9.16% {
+                        --angle: 33deg;
+                    }
+                    9.44% {
+                        --angle: 34deg;
+                    }
+                    9.72% {
+                        --angle: 35deg;
+                    }
+                    10% {
+                        --angle: 36deg;
+                    }
+                    10.27% {
+                        --angle: 37deg;
+                    }
+                    10.55% {
+                        --angle: 38deg;
+                    }
+                    10.83% {
+                        --angle: 39deg;
+                    }
+                    11.11% {
+                        --angle: 40deg;
+                    }
+                    11.38% {
+                        --angle: 41deg;
+                    }
+                    11.66% {
+                        --angle: 42deg;
+                    }
+                    11.94% {
+                        --angle: 43deg;
+                    }
+                    12.22% {
+                        --angle: 44deg;
+                    }
+                    12.5% {
+                        --angle: 45deg;
+                    }
+                    12.77% {
+                        --angle: 46deg;
+                    }
+                    13.05% {
+                        --angle: 47deg;
+                    }
+                    13.33% {
+                        --angle: 48deg;
+                    }
+                    13.61% {
+                        --angle: 49deg;
+                    }
+                    13.88% {
+                        --angle: 50deg;
+                    }
+                    14.16% {
+                        --angle: 51deg;
+                    }
+                    14.44% {
+                        --angle: 52deg;
+                    }
+                    14.72% {
+                        --angle: 53deg;
+                    }
+                    15% {
+                        --angle: 54deg;
+                    }
+                    15.27% {
+                        --angle: 55deg;
+                    }
+                    15.55% {
+                        --angle: 56deg;
+                    }
+                    15.83% {
+                        --angle: 57deg;
+                    }
+                    16.11% {
+                        --angle: 58deg;
+                    }
+                    16.38% {
+                        --angle: 59deg;
+                    }
+                    16.66% {
+                        --angle: 60deg;
+                    }
+                    16.94% {
+                        --angle: 61deg;
+                    }
+                    17.22% {
+                        --angle: 62deg;
+                    }
+                    17.5% {
+                        --angle: 63deg;
+                    }
+                    17.77% {
+                        --angle: 64deg;
+                    }
+                    18.05% {
+                        --angle: 65deg;
+                    }
+                    18.33% {
+                        --angle: 66deg;
+                    }
+                    18.61% {
+                        --angle: 67deg;
+                    }
+                    18.88% {
+                        --angle: 68deg;
+                    }
+                    19.16% {
+                        --angle: 69deg;
+                    }
+                    19.44% {
+                        --angle: 70deg;
+                    }
+                    19.72% {
+                        --angle: 71deg;
+                    }
+                    20% {
+                        --angle: 72deg;
+                    }
+                    20.27% {
+                        --angle: 73deg;
+                    }
+                    20.55% {
+                        --angle: 74deg;
+                    }
+                    20.83% {
+                        --angle: 75deg;
+                    }
+                    21.11% {
+                        --angle: 76deg;
+                    }
+                    21.38% {
+                        --angle: 77deg;
+                    }
+                    21.66% {
+                        --angle: 78deg;
+                    }
+                    21.94% {
+                        --angle: 79deg;
+                    }
+                    22.22% {
+                        --angle: 80deg;
+                    }
+                    22.5% {
+                        --angle: 81deg;
+                    }
+                    22.77% {
+                        --angle: 82deg;
+                    }
+                    23.05% {
+                        --angle: 83deg;
+                    }
+                    23.33% {
+                        --angle: 84deg;
+                    }
+                    23.61% {
+                        --angle: 85deg;
+                    }
+                    23.88% {
+                        --angle: 86deg;
+                    }
+                    24.16% {
+                        --angle: 87deg;
+                    }
+                    24.44% {
+                        --angle: 88deg;
+                    }
+                    24.72% {
+                        --angle: 89deg;
+                    }
+                    25% {
+                        --angle: 90deg;
+                    }
+                    25.27% {
+                        --angle: 91deg;
+                    }
+                    25.55% {
+                        --angle: 92deg;
+                    }
+                    25.83% {
+                        --angle: 93deg;
+                    }
+                    26.11% {
+                        --angle: 94deg;
+                    }
+                    26.38% {
+                        --angle: 95deg;
+                    }
+                    26.66% {
+                        --angle: 96deg;
+                    }
+                    26.94% {
+                        --angle: 97deg;
+                    }
+                    27.22% {
+                        --angle: 98deg;
+                    }
+                    27.5% {
+                        --angle: 99deg;
+                    }
+                    27.77% {
+                        --angle: 100deg;
+                    }
+                    28.05% {
+                        --angle: 101deg;
+                    }
+                    28.33% {
+                        --angle: 102deg;
+                    }
+                    28.61% {
+                        --angle: 103deg;
+                    }
+                    28.88% {
+                        --angle: 104deg;
+                    }
+                    29.16% {
+                        --angle: 105deg;
+                    }
+                    29.44% {
+                        --angle: 106deg;
+                    }
+                    29.72% {
+                        --angle: 107deg;
+                    }
+                    30% {
+                        --angle: 108deg;
+                    }
+                    30.27% {
+                        --angle: 109deg;
+                    }
+                    30.55% {
+                        --angle: 110deg;
+                    }
+                    30.83% {
+                        --angle: 111deg;
+                    }
+                    31.11% {
+                        --angle: 112deg;
+                    }
+                    31.38% {
+                        --angle: 113deg;
+                    }
+                    31.66% {
+                        --angle: 114deg;
+                    }
+                    31.94% {
+                        --angle: 115deg;
+                    }
+                    32.22% {
+                        --angle: 116deg;
+                    }
+                    32.5% {
+                        --angle: 117deg;
+                    }
+                    32.77% {
+                        --angle: 118deg;
+                    }
+                    33.05% {
+                        --angle: 119deg;
+                    }
+                    33.33% {
+                        --angle: 120deg;
+                    }
+                    33.61% {
+                        --angle: 121deg;
+                    }
+                    33.88% {
+                        --angle: 122deg;
+                    }
+                    34.16% {
+                        --angle: 123deg;
+                    }
+                    34.44% {
+                        --angle: 124deg;
+                    }
+                    34.72% {
+                        --angle: 125deg;
+                    }
+                    35% {
+                        --angle: 126deg;
+                    }
+                    35.27% {
+                        --angle: 127deg;
+                    }
+                    35.55% {
+                        --angle: 128deg;
+                    }
+                    35.83% {
+                        --angle: 129deg;
+                    }
+                    36.11% {
+                        --angle: 130deg;
+                    }
+                    36.38% {
+                        --angle: 131deg;
+                    }
+                    36.66% {
+                        --angle: 132deg;
+                    }
+                    36.94% {
+                        --angle: 133deg;
+                    }
+                    37.22% {
+                        --angle: 134deg;
+                    }
+                    37.5% {
+                        --angle: 135deg;
+                    }
+                    37.77% {
+                        --angle: 136deg;
+                    }
+                    38.05% {
+                        --angle: 137deg;
+                    }
+                    38.33% {
+                        --angle: 138deg;
+                    }
+                    38.61% {
+                        --angle: 139deg;
+                    }
+                    38.88% {
+                        --angle: 140deg;
+                    }
+                    39.16% {
+                        --angle: 141deg;
+                    }
+                    39.44% {
+                        --angle: 142deg;
+                    }
+                    39.72% {
+                        --angle: 143deg;
+                    }
+                    40% {
+                        --angle: 144deg;
+                    }
+                    40.27% {
+                        --angle: 145deg;
+                    }
+                    40.55% {
+                        --angle: 146deg;
+                    }
+                    40.83% {
+                        --angle: 147deg;
+                    }
+                    41.11% {
+                        --angle: 148deg;
+                    }
+                    41.38% {
+                        --angle: 149deg;
+                    }
+                    41.66% {
+                        --angle: 150deg;
+                    }
+                    41.94% {
+                        --angle: 151deg;
+                    }
+                    42.22% {
+                        --angle: 152deg;
+                    }
+                    42.5% {
+                        --angle: 153deg;
+                    }
+                    42.77% {
+                        --angle: 154deg;
+                    }
+                    43.05% {
+                        --angle: 155deg;
+                    }
+                    43.33% {
+                        --angle: 156deg;
+                    }
+                    43.61% {
+                        --angle: 157deg;
+                    }
+                    43.88% {
+                        --angle: 158deg;
+                    }
+                    44.16% {
+                        --angle: 159deg;
+                    }
+                    44.44% {
+                        --angle: 160deg;
+                    }
+                    44.72% {
+                        --angle: 161deg;
+                    }
+                    45% {
+                        --angle: 162deg;
+                    }
+                    45.27% {
+                        --angle: 163deg;
+                    }
+                    45.55% {
+                        --angle: 164deg;
+                    }
+                    45.83% {
+                        --angle: 165deg;
+                    }
+                    46.11% {
+                        --angle: 166deg;
+                    }
+                    46.38% {
+                        --angle: 167deg;
+                    }
+                    46.66% {
+                        --angle: 168deg;
+                    }
+                    46.94% {
+                        --angle: 169deg;
+                    }
+                    47.22% {
+                        --angle: 170deg;
+                    }
+                    47.5% {
+                        --angle: 171deg;
+                    }
+                    47.77% {
+                        --angle: 172deg;
+                    }
+                    48.05% {
+                        --angle: 173deg;
+                    }
+                    48.33% {
+                        --angle: 174deg;
+                    }
+                    48.61% {
+                        --angle: 175deg;
+                    }
+                    48.88% {
+                        --angle: 176deg;
+                    }
+                    49.16% {
+                        --angle: 177deg;
+                    }
+                    49.44% {
+                        --angle: 178deg;
+                    }
+                    49.72% {
+                        --angle: 179deg;
+                    }
+                    50% {
+                        --angle: 180deg;
+                    }
+                    50.27% {
+                        --angle: 181deg;
+                    }
+                    50.55% {
+                        --angle: 182deg;
+                    }
+                    50.83% {
+                        --angle: 183deg;
+                    }
+                    51.11% {
+                        --angle: 184deg;
+                    }
+                    51.38% {
+                        --angle: 185deg;
+                    }
+                    51.66% {
+                        --angle: 186deg;
+                    }
+                    51.94% {
+                        --angle: 187deg;
+                    }
+                    52.22% {
+                        --angle: 188deg;
+                    }
+                    52.5% {
+                        --angle: 189deg;
+                    }
+                    52.77% {
+                        --angle: 190deg;
+                    }
+                    53.05% {
+                        --angle: 191deg;
+                    }
+                    53.33% {
+                        --angle: 192deg;
+                    }
+                    53.61% {
+                        --angle: 193deg;
+                    }
+                    53.88% {
+                        --angle: 194deg;
+                    }
+                    54.16% {
+                        --angle: 195deg;
+                    }
+                    54.44% {
+                        --angle: 196deg;
+                    }
+                    54.72% {
+                        --angle: 197deg;
+                    }
+                    55% {
+                        --angle: 198deg;
+                    }
+                    55.27% {
+                        --angle: 199deg;
+                    }
+                    55.55% {
+                        --angle: 200deg;
+                    }
+                    55.83% {
+                        --angle: 201deg;
+                    }
+                    56.11% {
+                        --angle: 202deg;
+                    }
+                    56.38% {
+                        --angle: 203deg;
+                    }
+                    56.66% {
+                        --angle: 204deg;
+                    }
+                    56.94% {
+                        --angle: 205deg;
+                    }
+                    57.22% {
+                        --angle: 206deg;
+                    }
+                    57.49% {
+                        --angle: 207deg;
+                    }
+                    57.77% {
+                        --angle: 208deg;
+                    }
+                    58.05% {
+                        --angle: 209deg;
+                    }
+                    58.33% {
+                        --angle: 210deg;
+                    }
+                    58.61% {
+                        --angle: 211deg;
+                    }
+                    58.88% {
+                        --angle: 212deg;
+                    }
+                    59.16% {
+                        --angle: 213deg;
+                    }
+                    59.44% {
+                        --angle: 214deg;
+                    }
+                    59.72% {
+                        --angle: 215deg;
+                    }
+                    60% {
+                        --angle: 216deg;
+                    }
+                    60.27% {
+                        --angle: 217deg;
+                    }
+                    60.55% {
+                        --angle: 218deg;
+                    }
+                    60.83% {
+                        --angle: 219deg;
+                    }
+                    61.11% {
+                        --angle: 220deg;
+                    }
+                    61.38% {
+                        --angle: 221deg;
+                    }
+                    61.66% {
+                        --angle: 222deg;
+                    }
+                    61.94% {
+                        --angle: 223deg;
+                    }
+                    62.22% {
+                        --angle: 224deg;
+                    }
+                    62.5% {
+                        --angle: 225deg;
+                    }
+                    62.77% {
+                        --angle: 226deg;
+                    }
+                    63.05% {
+                        --angle: 227deg;
+                    }
+                    63.33% {
+                        --angle: 228deg;
+                    }
+                    63.61% {
+                        --angle: 229deg;
+                    }
+                    63.88% {
+                        --angle: 230deg;
+                    }
+                    64.16% {
+                        --angle: 231deg;
+                    }
+                    64.44% {
+                        --angle: 232deg;
+                    }
+                    64.72% {
+                        --angle: 233deg;
+                    }
+                    65% {
+                        --angle: 234deg;
+                    }
+                    65.27% {
+                        --angle: 235deg;
+                    }
+                    65.55% {
+                        --angle: 236deg;
+                    }
+                    65.83% {
+                        --angle: 237deg;
+                    }
+                    66.11% {
+                        --angle: 238deg;
+                    }
+                    66.38% {
+                        --angle: 239deg;
+                    }
+                    66.66% {
+                        --angle: 240deg;
+                    }
+                    66.94% {
+                        --angle: 241deg;
+                    }
+                    67.22% {
+                        --angle: 242deg;
+                    }
+                    67.5% {
+                        --angle: 243deg;
+                    }
+                    67.77% {
+                        --angle: 244deg;
+                    }
+                    68.05% {
+                        --angle: 245deg;
+                    }
+                    68.33% {
+                        --angle: 246deg;
+                    }
+                    68.61% {
+                        --angle: 247deg;
+                    }
+                    68.88% {
+                        --angle: 248deg;
+                    }
+                    69.16% {
+                        --angle: 249deg;
+                    }
+                    69.44% {
+                        --angle: 250deg;
+                    }
+                    69.72% {
+                        --angle: 251deg;
+                    }
+                    70% {
+                        --angle: 252deg;
+                    }
+                    70.27% {
+                        --angle: 253deg;
+                    }
+                    70.55% {
+                        --angle: 254deg;
+                    }
+                    70.83% {
+                        --angle: 255deg;
+                    }
+                    71.11% {
+                        --angle: 256deg;
+                    }
+                    71.38% {
+                        --angle: 257deg;
+                    }
+                    71.66% {
+                        --angle: 258deg;
+                    }
+                    71.94% {
+                        --angle: 259deg;
+                    }
+                    72.22% {
+                        --angle: 260deg;
+                    }
+                    72.5% {
+                        --angle: 261deg;
+                    }
+                    72.77% {
+                        --angle: 262deg;
+                    }
+                    73.05% {
+                        --angle: 263deg;
+                    }/*by @amex2189*/
+                    73.33% {
+                        --angle: 264deg;
+                    }
+                    73.61% {
+                        --angle: 265deg;
+                    }
+                    73.88% {
+                        --angle: 266deg;
+                    }
+                    74.16% {
+                        --angle: 267deg;
+                    }
+                    74.44% {
+                        --angle: 268deg;
+                    }
+                    74.72% {
+                        --angle: 269deg;
+                    }
+                    75% {
+                        --angle: 270deg;
+                    }
+                    75.27% {
+                        --angle: 271deg;
+                    }
+                    75.55% {
+                        --angle: 272deg;
+                    }
+                    75.83% {
+                        --angle: 273deg;
+                    }
+                    76.11% {
+                        --angle: 274deg;
+                    }
+                    76.38% {
+                        --angle: 275deg;
+                    }
+                    76.66% {
+                        --angle: 276deg;
+                    }
+                    76.94% {
+                        --angle: 277deg;
+                    }
+                    77.22% {
+                        --angle: 278deg;
+                    }
+                    77.5% {
+                        --angle: 279deg;
+                    }
+                    77.77% {
+                        --angle: 280deg;
+                    }
+                    78.05% {
+                        --angle: 281deg;
+                    }
+                    78.33% {
+                        --angle: 282deg;
+                    }
+                    78.61% {
+                        --angle: 283deg;
+                    }
+                    78.88% {
+                        --angle: 284deg;
+                    }
+                    79.16% {
+                        --angle: 285deg;
+                    }
+                    79.44% {
+                        --angle: 286deg;
+                    }
+                    79.72% {
+                        --angle: 287deg;
+                    }
+                    80% {
+                        --angle: 288deg;
+                    }
+                    80.27% {
+                        --angle: 289deg;
+                    }
+                    80.55% {
+                        --angle: 290deg;
+                    }
+                    80.83% {
+                        --angle: 291deg;
+                    }
+                    81.11% {
+                        --angle: 292deg;
+                    }
+                    81.38% {
+                        --angle: 293deg;
+                    }
+                    81.66% {
+                        --angle: 294deg;
+                    }
+                    81.94% {
+                        --angle: 295deg;
+                    }
+                    82.22% {
+                        --angle: 296deg;
+                    }
+                    82.5% {
+                        --angle: 297deg;
+                    }
+                    82.77% {
+                        --angle: 298deg;
+                    }
+                    83.05% {
+                        --angle: 299deg;
+                    }
+                    83.33% {
+                        --angle: 300deg;
+                    }
+                    83.61% {
+                        --angle: 301deg;
+                    }
+                    83.88% {
+                        --angle: 302deg;
+                    }
+                    84.16% {
+                        --angle: 303deg;
+                    }
+                    84.44% {
+                        --angle: 304deg;
+                    }
+                    84.72% {
+                        --angle: 305deg;
+                    }
+                    85% {
+                        --angle: 306deg;
+                    }
+                    85.27% {
+                        --angle: 307deg;
+                    }
+                    85.55% {
+                        --angle: 308deg;
+                    }
+                    85.83% {
+                        --angle: 309deg;
+                    }
+                    86.11% {
+                        --angle: 310deg;
+                    }
+                    86.38% {
+                        --angle: 311deg;
+                    }
+                    86.66% {
+                        --angle: 312deg;
+                    }
+                    86.94% {
+                        --angle: 313deg;
+                    }
+                    87.22% {
+                        --angle: 314deg;
+                    }
+                    87.5% {
+                        --angle: 315deg;
+                    }
+                    87.77% {
+                        --angle: 316deg;
+                    }
+                    88.05% {
+                        --angle: 317deg;
+                    }
+                    88.33% {
+                        --angle: 318deg;
+                    }
+                    88.61% {
+                        --angle: 319deg;
+                    }
+                    88.88% {
+                        --angle: 320deg;
+                    }
+                    89.16% {
+                        --angle: 321deg;
+                    }
+                    89.44% {
+                        --angle: 322deg;
+                    }
+                    89.72% {
+                        --angle: 323deg;
+                    }
+                    90% {
+                        --angle: 324deg;
+                    }
+                    90.27% {
+                        --angle: 325deg;
+                    }
+                    90.55% {
+                        --angle: 326deg;
+                    }
+                    90.83% {
+                        --angle: 327deg;
+                    }
+                    91.11% {
+                        --angle: 328deg;
+                    }
+                    91.38% {
+                        --angle: 329deg;
+                    }
+                    91.66% {
+                        --angle: 330deg;
+                    }
+                    91.94% {
+                        --angle: 331deg;
+                    }
+                    92.22% {
+                        --angle: 332deg;
+                    }
+                    92.5% {
+                        --angle: 333deg;
+                    }
+                    92.77% {
+                        --angle: 334deg;
+                    }
+                    93.05% {
+                        --angle: 335deg;
+                    }
+                    93.33% {
+                        --angle: 336deg;
+                    }
+                    93.61% {
+                        --angle: 337deg;
+                    }
+                    93.88% {
+                        --angle: 338deg;
+                    }
+                    94.16% {
+                        --angle: 339deg;
+                    }
+                    94.44% {
+                        --angle: 340deg;
+                    }
+                    94.72% {
+                        --angle: 341deg;
+                    }
+                    95% {
+                        --angle: 342deg;
+                    }
+                    95.27% {
+                        --angle: 343deg;
+                    }
+                    95.55% {
+                        --angle: 344deg;
+                    }
+                    95.83% {
+                        --angle: 345deg;
+                    }
+                    96.11% {
+                        --angle: 346deg;
+                    }
+                    96.38% {
+                        --angle: 347deg;
+                    }
+                    96.66% {
+                        --angle: 348deg;
+                    }
+                    96.94% {
+                        --angle: 349deg;
+                    }
+                    97.22% {
+                        --angle: 350deg;
+                    }
+                    97.5% {
+                        --angle: 351deg;
+                    }
+                    97.77% {
+                        --angle: 352deg;
+                    }
+                    98.05% {
+                        --angle: 353deg;
+                    }
+                    98.33% {
+                        --angle: 354deg;
+                    }
+                    98.61% {
+                        --angle: 355deg;
+                    }
+                    98.88% {
+                        --angle: 356deg;
+                    }
+                    99.16% {
+                        --angle: 357deg;
+                    }
+                    99.44% {
+                        --angle: 358deg;
+                    }
+                    99.72% {
+                        --angle: 359deg;
+                    }
+                    100% {
+                        --angle: 360deg;
+                    }
+                }
+
+                @keyframes movebg {
+                    0% {
+                        background-position: 0% center;
+                    }
+                    100% {
+                        background-position: 400% center;
+                    }
+                }
+            </style>
+        </div>
+    </foreignObject>
+</svg>
