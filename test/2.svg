@@ -22,11 +22,11 @@
                                 <span>
                                     <svg
                                         fill="#747474"
-                                        viewBox="0 0 52 52"
-                                        width="36"
+                                        viewBox="0 0 10 10"
+                                        width="7"
                                         data-name="Layer 1"
                                         xmlns="http://www.w3.org/2000/svg"
-                                        style="margin-bottom: -5px"
+                                        style="margin-bottom: -1px"
                                     >
                                         <g
                                             id="SVGRepo_bgCarrier"
@@ -54,11 +54,11 @@
                                 <span>
                                     <svg
                                         fill="#747474"
-                                        viewBox="0 0 52 52"
-                                        width="36"
+                                        viewBox="0 0 10 10"
+                                        width="7"
                                         data-name="Layer 1"
                                         xmlns="http://www.w3.org/2000/svg"
-                                        style="margin-bottom: -5px"
+                                        style="margin-bottom: -1px"
                                     >
                                         <g
                                             id="SVGRepo_bgCarrier"
@@ -103,7 +103,7 @@
                     justify-content: center;
                     margin: 0;
                     width: 100%;
-                    height: 800px;
+                    height: 150px;
                     position: relative;
                     overflow: hidden;
                 }
@@ -111,17 +111,17 @@
                 .shiny-border {
                     position: relative;
                     width: 95%;
-                    height: 800px;
-                    border-radius: 3rem;
-                    border: 3px solid #d6ebfd30;
+                    height: 150px;
+                    border-radius: 1rem;
+                    border: 1px solid #d6ebfd30;
                     box-shadow: inset 0 -30px 20px #ffffff12;
                     background: #000000;
                 }
 
                 .light {
                     width: 75%;
-                    margin: -3px auto;
-                    height: 3px;
+                    margin: -1px auto;
+                    height: 1px;
                     background: linear-gradient(
                         90deg,
                         rgba(0, 0, 0, 0) 0%,
@@ -132,11 +132,11 @@
                 }
 
                 .content {
-                    padding: 48px 96px;
+                    padding: 9px 18px;
                 }
 
                 .content > .name {
-                    font-size: 100px;
+                    font-size: 18px;
                     font-weight: 700;
                     background-image: linear-gradient(
                         135deg,
@@ -157,22 +157,22 @@
                     text-fill-color: transparent;
                     animation: movebg 16s cubic-bezier(0.3, 0, 0.2, 1) infinite;
                     filter: drop-shadow(0px 0px 10px rgba(255, 255, 255, 0.2));
-                    text-shadow: 0 0 45px rgba(143, 16, 185, 0.25);
+                    text-shadow: 0 0 8px rgba(143, 16, 185, 0.25);
                 }
 
                 .content > .description {
-                    font-size: 36px;
+                    font-size: 7px;
                     font-weight: 400;
                     color: #838383;
-                    text-shadow: 0 0 25px #ffffff22;
+                    text-shadow: 0 0 5px #ffffff22;
                 }
 
                 .content > .urls {
                     display: flex;
                     flex-direction: column;
                     gap: 1px;
-                    margin-top: 48px;
-                    margin-left: 20px;
+                    margin-top: 9px;
+                    margin-left: 4px;
                     color: #a3a3a3;
                 }
 
@@ -180,8 +180,8 @@
                     display: flex;
                     flex-direction: column;
                     align-items: start;
-                    gap: 8px;
-                    font-size: 34px;
+                    gap: 1.5px;
+                    font-size: 6.5px;
                     font-weight: 800;
                     background-image: linear-gradient(45deg, #797979 4%, #fff 50%, #000);
                     -webkit-background-clip: text;
@@ -193,23 +193,23 @@
                 .content > .urls > p > span:nth-child(2) {
                     display: flex;
                     align-items: center;
-                    gap: 16px;
-                    margin-top: 10px;
-                    margin-left: 20px;
-                    font-size: 26px;
+                    gap: 3px;
+                    margin-top: 2px;
+                    margin-left: 4px;
+                    font-size: 5px;
                 }
 
                 .content > .details {
                     width: fit-content;
                     display: flex;
                     flex-direction: column;
-                    margin-top: 48px;
+                    margin-top: 9px;
                     color: #a8a8a8;
-                    font-size: 26px;
-                    box-shadow: inset 0 0px 20px #ffffff22;
+                    font-size: 5px;
+                    box-shadow: inset 0 0px 4px #ffffff22;
                     border: 1px solid #d6ebfd20;
-                    padding: 24px;
-                    border-radius: 10px;
+                    padding: 4.5px;
+                    border-radius: 2px;
                 }
 
                 .content > .details > p {
@@ -218,9 +218,9 @@
 
                 .triangle {
                     position: absolute;
-                    top: 75px;
-                    right: 125px;
-                    width: 650px;
+                    top: 14px;
+                    right: 24px;
+                    width: 120px;
                     aspect-ratio: 1/cos(30deg);
                     clip-path: polygon(50% 0, 100% 100%, 0 100%);
                     background-image: conic-gradient(
@@ -232,15 +232,15 @@
                         #ff454577
                     );
                     animation: spin 5s cubic-bezier(0.4, 0.2, 0, 0.1) Infinite;
-                    filter: blur(20px);
+                    filter: blur(4px);
                 }
 
                 .triangle::before {
                     content: "";
                     position: absolute;
-                    top: 25px;
-                    left: 25px;
-                    width: 600px;
+                    top: 5px;
+                    left: 5px;
+                    width: 110px;
                     aspect-ratio: 1/cos(30deg);
                     clip-path: polygon(50% 0, 100% 100%, 0 100%);
                     background-color: #000000;
