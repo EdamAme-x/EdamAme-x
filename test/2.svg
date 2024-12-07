@@ -176,6 +176,10 @@
                     color: #a3a3a3;
                 }
 
+                .content > .urls > p {
+                    margin: 0;
+                }
+
                 .content > .urls > p > span:nth-child(1) {
                     display: flex;
                     flex-direction: column;
