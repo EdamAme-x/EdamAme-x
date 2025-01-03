@@ -6,3 +6,5 @@
 	</picture>
 	<br>
 </div>
+<!-- これが種 -->
+<a accesskey="x" href="https://evex.land"></a>
