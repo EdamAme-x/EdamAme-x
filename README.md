@@ -2,7 +2,8 @@
 メンションしてくれると分かりやすいです！
 
 - 肩書き  
-comminuty owner, web engineer, oss contributor ,security researcher, youtuber, tetrer, influencer, cg designer  
+comminuty owner, web engineer, oss contributor ,security researcher, youtuber, tetrer, influencer, cg designer
+
 何でも出来るし、出来ないです。
 
 <div align="center">
