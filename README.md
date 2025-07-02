@@ -1,4 +1,6 @@
-Work Request: https://discord.gg/evex
+仕事の依頼は Discord までお願いします！: https://discord.gg/evex
+メンションしてくれると分かりやすいです！
+
 <div align="center">
 	<br>
 	<picture>
