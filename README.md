@@ -1,6 +1,9 @@
 仕事の依頼は Discord までお願いします！: https://discord.gg/evex  
 メンションしてくれると分かりやすいです！
 
+肩書き
+large comminuty owner, web engineer, oss contributor ,security researcher, youtuber, tetrer, influencer, cg designer
+
 <div align="center">
 	<br>
 	<picture>
