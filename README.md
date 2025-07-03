@@ -1,7 +1,7 @@
 仕事の依頼は Discord までお願いします！: https://discord.gg/evex  
 メンションしてくれると分かりやすいです！
 
-- I can work for
+- I can work for  
 comminuty owner, web engineer, oss contributor ,security researcher, youtuber, tetrer, influencer, cg designer
 
 
