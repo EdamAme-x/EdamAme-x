@@ -1,9 +1,5 @@
 仕事の依頼は X までお願いします！: https://x.com/evex_dev
 
-- I can work as  
-comminuty owner, web engineer, oss contributor ,security researcher, youtuber, tetrer, influencer, cg designer
-
-
 <div align="center">
 	<br>
 	<picture>
