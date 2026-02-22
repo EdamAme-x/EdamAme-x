@@ -1,7 +1,7 @@
-仕事の依頼は X までお願いします！: https://x.com/evex_dev
+仕事の依頼は X までお願いします！
+https://x.com/evex_dev
 
 Web サイト開発、バックエンド開発、ツール開発、モデリング等々やってます。
-Discord に良く居ます！: https://discord.gg/evex
 
 <div align="center">
 	<br>
