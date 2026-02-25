@@ -1,7 +1,7 @@
 連絡は X までお願いします！
 https://x.com/evex_dev
 
-開発、CTF、モデリング等々やってます。
+開発、セキュリティ、モデリング等々やってます。
 
 <div align="center">
 	<br>
