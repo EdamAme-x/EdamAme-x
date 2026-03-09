@@ -2,6 +2,7 @@
 https://x.com/evex_dev
 
 開発、セキュリティ、モデリング等々やってます。
+とったCVE: https://github.com/advisories?query=credit%3AEdamAme-x
 
 <div align="center">
 	<br>
