@@ -1,8 +1,7 @@
-連絡は X までお願いします！
-https://x.com/evex_dev
+Crafting code, hunting vulns, and shaping 3D worlds.  
+Just a Japan-based high schooler living at the intersection of creation and security.
 
-開発、セキュリティ、モデリング等々やってます。　　　　  
-CVE: https://github.com/advisories?query=credit%3AEdamAme-x
+**CVE Credits:** https://github.com/advisories?query=credit%3AEdamAme-x
 
 <div align="center">
 	<br>
