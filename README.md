@@ -1,5 +1,5 @@
 Crafting code, hunting vulns, and shaping 3D worlds.  
-Just a Japan-based high schooler living at the intersection of creation and security.
+Just a high schooler living at Japan.
 
 **CVE Credits:** https://github.com/advisories?query=credit%3AEdamAme-x
 
