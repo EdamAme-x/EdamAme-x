@@ -1,7 +1,7 @@
 Crafting code, hunting vulns, and shaping 3D worlds.  
 Just a high schooler living at Japan.
 
-**CVE Credits:** https://github.com/advisories?query=credit%3AEdamAme-x
+[**CVE Credits**](https://github.com/advisories?query=credit%3AEdamAme-x)
 
 <div align="center">
 	<br>
