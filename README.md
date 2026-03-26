@@ -1,4 +1,6 @@
-<img src=https://justuuid.pages.dev/api/badge/u/11b528ff-3870-437b-8d3f-769aca580943.svg />
+<a href=https://justuuid.pages.dev/u/11b528ff-3870-437b-8d3f-769aca580943>
+	<img src=https://justuuid.pages.dev/api/badge/u/11b528ff-3870-437b-8d3f-769aca580943.svg />
+</a>
 
 Crafting code, hunting vulns, and shaping 3D worlds.  
 Just a high schooler living at Japan.
