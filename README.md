@@ -4,8 +4,6 @@
 
 I love Coding and Graphic. 
 
-[CVE Credits](https://github.com/advisories?query=credit%3AEdamAme-x)
-
 <div align="center">
 	<br>
 	<picture>
